@@ -1,4 +1,6 @@
-**Important note: this project [is not actively maintained](https://github.com/lerna/lerna/issues/2703). Consider adopting an alternative toolset for monorepo management.**
+**Important note: this project is a fork on the [unmaintained Lerna project](https://github.com/lerna/lerna/issues/2703).**
+
+Thanks to all [Lerna](https://github.com/lerna/lerna/issues/2703) contibutors. If you made a PR on the old repository don't hesitate to post it back here.
 
 <p align="center">
   <img alt="Lerna" src="https://user-images.githubusercontent.com/645641/79596653-38f81200-80e1-11ea-98cd-1c6a3bb5de51.png" width="480">
